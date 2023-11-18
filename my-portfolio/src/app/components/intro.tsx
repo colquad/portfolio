@@ -2,7 +2,7 @@
 
 import Image from 'next/image';
 import React from 'react';
-import profilePic from "/public/2832.jpg";
+import profilePic from "@/app/public/2832.jpg";
 import { motion } from "framer-motion";
 
 export default function Intro() {
